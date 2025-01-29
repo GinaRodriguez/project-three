@@ -1,0 +1,64 @@
+{
+  "icecream": [
+    {
+      "name": "Chocolate Chip Cookie Dough",
+      "year": "1984",
+      "colors": ["white", "brown"],
+      "origin": "United States",
+      "pictures": [
+        {
+          "description": "a bowl of ice cream",
+          "url": "https://celebratingsweets.com/wp-content/uploads/2023/04/Cookie-Dough-Ice-Cream-7.jpg"
+        },
+        {
+          "description": "a scoop of ice cream",
+          "url": "https://i1.wp.com/lmld.org/wp-content/uploads/2022/07/Cookie-Dough-Ice-Cream-9.jpg"
+        },
+        {
+          "description": "a bowl of ice cream",
+          "url": "https://thebigmansworld.com/wp-content/uploads/2024/04/cookie-dough-ice-cream-recipe.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vanilla",
+      "year": "1510",
+      "colors": ["white", "white"],
+      "origin": "Mexico",
+      "pictures": [
+        {
+          "description": "a bowl of ice cream",
+          "url": "https://celebratingsweets.com/wp-content/uploads/2023/04/Cookie-Dough-Ice-Cream-7.jpg"
+        },
+        {
+          "description": "a scoop of ice cream",
+          "url": "https://i1.wp.com/lmld.org/wp-content/uploads/2022/07/Cookie-Dough-Ice-Cream-9.jpg"
+        },
+        {
+          "description": "a bowl of ice cream",
+          "url": "https://thebigmansworld.com/wp-content/uploads/2024/04/cookie-dough-ice-cream-recipe.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chocolate",
+      "year": "1693",
+      "colors": ["brown", "black"],
+      "origin": "Italy",
+      "pictures": [
+        {
+          "description": "a bowl of ice cream",
+          "url": "https://buttermilkbysam.com/wp-content/uploads/2023/07/no-churn-chocolate-ice-cream-7.jpg"
+        },
+        {
+          "description": "a scoop of ice cream",
+          "url": "https://i1.wp.com/lmld.org/wp-content/uploads/2022/07/Cookie-Dough-Ice-Cream-9.jpg"
+        },
+        {
+          "description": "a bowl of ice cream",
+          "url": "https://thebigmansworld.com/wp-content/uploads/2024/04/cookie-dough-ice-cream-recipe.jpg"
+        }
+      ]
+    },
+  ]
+
