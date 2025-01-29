@@ -250,9 +250,9 @@
           "description": "a bowl of rocky road ice cream",
           "url": "https://www.twopeasandtheirpod.com/wp-content/uploads/2022/07/Rocky-Road-Ice-Cream-7.jpg"
         }
-  ]
-},
-{
+      ]
+    },
+    {
       "name": "14 Cookies and Cream",
       "year": "1979",
       "colors": ["white", "black"],
@@ -438,6 +438,7 @@
           "description": "a scoop of gingerbread ice cream",
           "url": "https://example.com/gingerbread-ice-cream-2.jpg"
         }
+      ]
     },
   }
 
