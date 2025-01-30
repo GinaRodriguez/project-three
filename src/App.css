@@ -10,6 +10,9 @@ body {
     rgba(216, 146, 254, 1) 100%
   );
   font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 nav {
@@ -17,8 +20,8 @@ nav {
   font-size: 15px;
   font-style: italic;
   background-color: rgb(246, 125, 255);
-  text-decoration: underline;
-  padding: 0%;
+  text-decoration: blueviolet;
+  padding: 1%;
   text-align: center;
   ul {
     list-style: none;
@@ -28,6 +31,30 @@ nav {
     display: inline;
     margin: 0 40px;
   }
+}
+
+li,
+a,
+button {
+  font-family: sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  color: #ecf0f1;
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
+
+button {
+  padding: 9px 25px;
+  background-color: aqua;
+  border: none;
+  border-radius: 50px;
 }
 
 h1 {
