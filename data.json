@@ -1,5 +1,5 @@
 {
-  "icecream":
+  "icecream": [
     {
       "name": "1 Chocolate Chip Cookie Dough",
       "year": "1984",
@@ -439,10 +439,6 @@
           "url": "https://example.com/gingerbread-ice-cream-2.jpg"
         }
       ]
-    },
-  }
-
-
-
-
-
+    }
+  ]
+}
