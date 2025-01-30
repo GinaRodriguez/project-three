@@ -6,8 +6,8 @@ const Contact = (props) => {
       <h1>
         {props.first} {props.last}
       </h1>
-      <h2> email: {props.email}</h2>
-      <h5> mobile: {props.mobile}</h5>
+      <h2> Name: {props.name}</h2>
+      <h5> Year: {props.year}</h5>
     </div>
   )
 }
