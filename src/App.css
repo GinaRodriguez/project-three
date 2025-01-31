@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   background-color: lightblue;
   background: rgb(6, 106, 254);
   background: linear-gradient(
@@ -10,19 +10,19 @@ body {
     rgba(216, 146, 254, 1) 100%
   );
   font-family: 'Roboto', sans-serif;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   margin: 0;
   padding: 0;
 }
 
-.App {
+/* .App {
   .App {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100vw;
   }
-}
+} */
 
 main {
   border: 10px solid rgb(255, 255, 255);
@@ -82,12 +82,35 @@ h1 {
 
 h2 {
   color: #ffffff;
-  font-size: 80px;
+  font-size: 50px;
   font-style: bold;
   text-align: center;
   text-shadow: 2px 2px #008cfe;
 }
 
-/* img {
-  border-radius: 5px 5px 0 0;
-} */
+h4 {
+  color: #ffffff;
+  font-size: 20px;
+  font-style: bold;
+  text-align: center;
+  text-shadow: 2px 2px #008cfe;
+}
+
+img {
+  border-radius: 8px;
+  width: 400px;
+  align-items: center;
+  display: flexbox;
+}
+
+.results {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  border-top: 2px solid darkblue;
+  border-left: 2px solid darkblue;
+  border-right: 2px solid darkblue;
+  width: 70vw;
+  height: 15vh;
+}
