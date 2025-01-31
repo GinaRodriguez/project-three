@@ -45,9 +45,9 @@ button {
   border-radius: 5%;
   font-family: sans-serif;
   border: none;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
@@ -76,21 +76,9 @@ h4 {
 
 img {
   border-radius: 8px;
-  width: 400px;
+  width: 100px;
   align-items: center;
   display: flexbox;
-}
-
-.results {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-  border-top: 2px solid darkblue;
-  border-left: 2px solid darkblue;
-  border-right: 2px solid darkblue;
-  width: 70vw;
-  height: 15vh;
 }
 
 footer {
@@ -104,9 +92,15 @@ footer {
   ul {
     list-style: none;
   }
-
   li {
     display: inline;
     margin: 0 40px;
   }
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
