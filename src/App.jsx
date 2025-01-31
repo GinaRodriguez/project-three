@@ -3,6 +3,7 @@ import icecream from './data/icecream.json'
 import IceCream from './components/IceCream.jsx'
 import Button from './components/Button.jsx'
 import Navigation from './components/Navigation.jsx'
+import Footer from './components/Footer.jsx'
 
 const App = () => {
   console.log(icecream)
@@ -18,6 +19,9 @@ const App = () => {
       {icecream.results.map((icecreamitem, index) => (
         <IceCream key={index} icecreamitem={icecreamitem} />
       ))}
+      <footer>
+        <Footer />
+      </footer>
     </div>
   )
 }
