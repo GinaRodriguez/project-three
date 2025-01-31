@@ -1,7 +1,7 @@
 {
-  "icecream": [
+  "results": [
     {
-      "name": "1 Chocolate Chip Cookie Dough",
+      "name": "Chocolate Chip Cookie Dough",
       "year": "1984",
       "colors": ["white", "brown"],
       "origin": "United States",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "name": "2 Vanilla",
+      "name": "Vanilla",
       "year": "1510",
       "colors": ["white", "white"],
       "origin": "Mexico",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "3 Chocolate",
+      "name": "Chocolate",
       "year": "1693",
       "colors": ["brown", "black"],
       "origin": "Italy",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "name": "4 Strawberry",
+      "name": "Strawberry",
       "year": "1770",
       "colors": ["pink", "white"],
       "origin": "England",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "5 Mint Chocolate Chip",
+      "name": "Mint Chocolate Chip",
       "year": "1973",
       "colors": ["green", "brown"],
       "origin": "United States",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "6 Butter Pecan",
+      "name": "Butter Pecan",
       "year": "1900",
       "colors": ["golden", "brown"],
       "origin": "United States",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "name": "7 Peach",
+      "name": "Peach",
       "year": "1860",
       "colors": ["peach", "orange"],
       "origin": "United States",
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "name": "8. Eggnog Ice Cream",
+      "name": "Eggnog Ice Cream",
       "year": "1981",
       "colors": ["cream", "yellow", "light brown"],
       "origin": "United States",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "9 Pistachio",
+      "name": "Pistachio",
       "year": "1790",
       "colors": ["green", "light brown"],
       "origin": "Middle East",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "10 Banana",
+      "name": "Banana",
       "year": "1830",
       "colors": ["yellow", "white"],
       "origin": "United States",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "name": "11 Lemon Sorbet",
+      "name": "Lemon Sorbet",
       "year": "1875",
       "colors": ["yellow", "white"],
       "origin": "Italy",
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "name": "12 Blackberry",
+      "name": "Blackberry",
       "year": "1884",
       "colors": ["purple", "black"],
       "origin": "United States",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "name": "13 Rocky Road",
+      "name": "Rocky Road",
       "year": "1929",
       "colors": ["brown", "white"],
       "origin": "United States",
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "name": "14 Cookies and Cream",
+      "name": "Cookies and Cream",
       "year": "1979",
       "colors": ["white", "black"],
       "origin": "United States",
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "name": "15 Butter Pecan",
+      "name": "Butter Pecan",
       "year": "1950s",
       "colors": ["beige", "brown"],
       "origin": "United States",
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "name": "16. Snickerdoodle Ice Cream",
+      "name": "Snickerdoodle Ice Cream",
       "year": "2005",
       "colors": ["white", "light brown", "cinnamon"],
       "origin": "United States",
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "name": "17 Ube",
+      "name": "Ube",
       "year": "1970s",
       "colors": ["purple"],
       "origin": "Philippines",
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "name": " 18 Apple Pie Ice Cream",
+      "name": "Apple Pie Ice Cream",
       "year": "1996",
       "colors": ["white", "golden", "brown"],
       "origin": "United States",
@@ -329,7 +329,7 @@
       ]
     },
     {
-      "name": "19 Cotton Candy",
+      "name": "Cotton Candy",
       "year": "Unknown",
       "colors": ["pink", "blue"],
       "origin": "United States",
@@ -345,7 +345,7 @@
       ]
     },
     {
-      "name": "20 Peach Raspberry",
+      "name": "Peach Raspberry",
       "year": "Unknown",
       "colors": ["orange", "red"],
       "origin": "United States",
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "name": "21 Lemon Sorbet",
+      "name": "Lemon Sorbet",
       "year": "Unknown",
       "colors": ["yellow"],
       "origin": "Italy",
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "name": "22 Bubblegum",
+      "name": "Bubblegum",
       "year": "Unknown",
       "colors": ["pink", "blue", "white"],
       "origin": "United States",
@@ -393,7 +393,7 @@
       ]
     },
     {
-      "name": "23 Dulce de Leche",
+      "name": "Dulce de Leche",
       "year": "Unknown",
       "colors": ["light brown", "caramel"],
       "origin": "Argentina",
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "name": "24 Maple Walnut",
+      "name": "Maple Walnut",
       "year": "Unknown",
       "colors": ["light brown"],
       "origin": "Canada",
@@ -425,7 +425,7 @@
       ]
     },
     {
-      "name": "25 Gingerbread",
+      "name": "Gingerbread",
       "year": "Unknown",
       "colors": ["brown"],
       "origin": "United States",

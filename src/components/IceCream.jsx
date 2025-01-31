@@ -1,15 +1,18 @@
-const Contact = (props) => {
-  console.log(props)
+const IceCream = ({ icecreamitem }) => {
   return (
-    <div class="IceCream">
-      <img src={props.picture} />
-      <h1>
-        {props.first} {props.last}
-      </h1>
-      <h2> Name: {props.name}</h2>
-      <h5> Year: {props.year}</h5>
+    <div className="ice cream">
+      {/* <img src={props.pictures} /> */}
+      <h2>{icecreamitem.name}</h2>
+      <h2> {icecreamitem.colors}</h2>
+      <h2> {icecreamitem.year}</h2>
+      <h2> {icecreamitem.origin}</h2>
+      <img>{icecreamitem.pictures.url}</img>
+      {/* <h2> Name: {props.name}</h2>
+      <h5> Colors: {props.colors}</h5> */}
     </div>
   )
 }
 
-export default Contact
+export default IceCream
+
+// import the css into here from components
