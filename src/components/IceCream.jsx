@@ -6,7 +6,9 @@ const IceCream = ({ icecreamitem }) => {
       <h2> {icecreamitem.colors}</h2>
       <h2> {icecreamitem.year}</h2>
       <h2> {icecreamitem.origin}</h2>
-      <img>{icecreamitem.pictures.url}</img>
+      {icecreamitem.pictures.map((image) => (
+        <img src={image.url} />
+      ))}
       {/* <h2> Name: {props.name}</h2>
       <h5> Colors: {props.colors}</h5> */}
     </div>

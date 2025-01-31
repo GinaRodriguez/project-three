@@ -6,17 +6,9 @@ const App = () => {
   console.log(icecream)
   return (
     <div className="App">
-      <h1>Flavors</h1>
+      <h1>Ice Cream Flavors</h1>
       {icecream.results.map((icecreamitem, index) => (
-        <IceCream
-          key={index}
-          icecreamitem={icecreamitem}
-          // name={icecream.name}
-          // year={icecream.year}
-          // color={icecream.color}
-          // origin={icecream.origin}
-          // picture={contact.picture.url}
-        />
+        <IceCream key={index} icecreamitem={icecreamitem} />
       ))}
     </div>
   )
