@@ -14,7 +14,7 @@ const App = () => {
       </body>
       <h1>Ice Cream Flavors</h1>
       <main>
-        <Button />
+        <Button text="Buy" />
       </main>
       {icecream.results.map((icecreamitem, index) => (
         <IceCream key={index} icecreamitem={icecreamitem} />
