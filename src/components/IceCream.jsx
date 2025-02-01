@@ -13,5 +13,3 @@ const IceCream = ({ icecreamitem }) => {
 }
 
 export default IceCream
-
-// import the css into here from components

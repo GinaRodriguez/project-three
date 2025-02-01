@@ -2,11 +2,10 @@ const Footer = () => {
   return (
     <footer>
       <ul>
-        <li>Home</li>
-        <li>About</li>
-        <li>Company</li>
-        <li>Contact Us</li>
-        <li>Blog</li>
+        <li>SITE</li>
+        <li>LOCATIONS</li>
+        <li>NEWSLETTER</li>
+        <li>SOCIAL</li>
       </ul>
     </footer>
   )
