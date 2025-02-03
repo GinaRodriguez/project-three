@@ -21,6 +21,21 @@ body {
   border: 1px #ffffff;
 }
 
+.card {
+  background-color: aqua;
+  width: 50vw;
+  border: #ffffff 1px solid;
+  margin: 5px;
+}
+
+.grid {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
 nav {
   color: rgb(255, 255, 255);
   font-size: 15px;

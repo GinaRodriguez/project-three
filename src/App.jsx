@@ -4,21 +4,20 @@ import IceCream from './components/IceCream.jsx'
 import Button from './components/Button.jsx'
 import Navigation from './components/Navigation.jsx'
 import Footer from './components/Footer.jsx'
+// import Card from './components/Card.jsx'
 
 const App = () => {
   console.log(icecream)
   return (
     <div className="App">
-      <body>
-        <Navigation />
-      </body>
+      <Navigation />
       <h1>Ice Cream Flavors</h1>
-      {icecream.results.map((icecreamitem, index) => (
-        <IceCream key={index} icecreamitem={icecreamitem} />
-      ))}
-      <footer>
-        <Footer />
-      </footer>
+      <div className="grid">
+        {icecream.results.map((icecreamitem, index) => (
+          <IceCream key={index} icecreamitem={icecreamitem} />
+        ))}
+      </div>
+      <Footer />
     </div>
   )
 }
