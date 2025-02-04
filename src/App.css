@@ -14,18 +14,20 @@ body {
   align-items: center;
 }
 
-.App {
+/* .App {
   display: flex;
   flex-direction: column;
   width: 100%;
   border: 1px #ffffff;
-}
+} */
 
 .card {
   background-color: aqua;
   width: 50vw;
   border: #ffffff 1px solid;
-  margin: 5px;
+  margin: 25px;
+  padding-bottom: 40px;
+  box-shadow: 5px 10px 25px #008cfe;
 }
 
 .grid {
@@ -64,10 +66,10 @@ header {
 
 button {
   font-size: 20px;
-  color: rgb(3, 0, 168);
-  background-color: aqua;
-  height: 100px;
-  width: 300px;
+  color: rgb(59, 255, 245);
+  background-color: rgb(223, 40, 255);
+  height: 75px;
+  width: 200px;
   border: 0;
   border-radius: 15px;
   font-family: sans-serif;
@@ -77,14 +79,10 @@ button {
   margin-left: auto;
   margin-right: auto;
   cursor: pointer;
-  /* padding: 9px 25px;
-  background-color: aqua;
-  border-radius: 5%;
-  font-family: sans-serif;
-  border: none;
-  display: block;
-  margin-left: auto;
-  margin-right: auto; */
+}
+
+button:hover {
+  background-color: #1103b3;
 }
 
 h1 {
@@ -96,7 +94,7 @@ h1 {
 }
 
 h2 {
-  color: #ffffff;
+  color: #0e0068;
   font-size: 50px;
   font-style: bold;
   text-align: center;
@@ -104,8 +102,16 @@ h2 {
 }
 
 h4 {
-  color: #ffffff;
+  color: #0e0068;
   font-size: 20px;
+  font-style: bold;
+  text-align: center;
+  text-shadow: 2px 2px #008cfe;
+}
+
+h5 {
+  color: #ffffff;
+  font-size: 25px;
   font-style: bold;
   text-align: center;
   text-shadow: 2px 2px #008cfe;
@@ -125,6 +131,16 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 20%;
+}
+
+.module {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: rgb(59, 255, 245) 1px solid;
+  margin: 25px;
 }
 
 footer {
