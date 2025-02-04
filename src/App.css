@@ -14,28 +14,45 @@ body {
   align-items: center;
 }
 
-/* .App {
+.app {
   display: flex;
   flex-direction: column;
   width: 100%;
   border: 1px #ffffff;
-} */
+}
 
 .card {
   background-color: aqua;
-  width: 50vw;
+  width: 45vw;
   border: #ffffff 1px solid;
-  margin: 25px;
-  padding-bottom: 40px;
+  margin: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   box-shadow: 5px 10px 25px #008cfe;
+  align-items: center;
 }
 
 .grid {
-  width: 100vw;
+  /* width: 100vw;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: center;
+  align-items: center; */
+  /* display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    overflow-wrap: break-word; 
+    max-width: 50vw;
+    text-wrap: balance; */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+  max-width: 100vw;
+  grid-template-columns: repeat(auto-fit, minmax(35vw, 1fr));
+  padding: 20px;
 }
 
 nav {
@@ -71,7 +88,7 @@ header {
 button {
   font-size: 20px;
   color: rgb(59, 255, 245);
-  background-color: rgb(223, 40, 255);
+  background-color: #df28ff;
   height: 75px;
   width: 200px;
   border: 0;
@@ -86,7 +103,7 @@ button {
 }
 
 button:hover {
-  background-color: #1103b3;
+  background-color: #1103b3; 
 }
 
 h1 {
