@@ -1,3 +1,14 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+  max-width: 100vw;
+  grid-template-columns: repeat(auto-fit, minmax(35vw, 1fr));
+  padding: 20px;
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   background-color: lightblue;
@@ -26,33 +37,11 @@ body {
   width: 45vw;
   border: #ffffff 1px solid;
   margin: 10px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
   box-shadow: 5px 10px 25px #008cfe;
   align-items: center;
-}
-
-.grid {
-  /* width: 100vw;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center; */
-  /* display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    overflow-wrap: break-word; 
-    max-width: 50vw;
-    text-wrap: balance; */
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
-  padding: 20px;
-  max-width: 100vw;
-  grid-template-columns: repeat(auto-fit, minmax(35vw, 1fr));
-  padding: 20px;
 }
 
 nav {
@@ -63,7 +52,10 @@ nav {
   text-decoration: blueviolet;
   padding: 1%;
   display: flex;
-  justify-content: center;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: space-around;
   cursor: pointer;
   ul {
     list-style: none;
@@ -103,7 +95,7 @@ button {
 }
 
 button:hover {
-  background-color: #1103b3; 
+  background-color: #1103b3;
 }
 
 h1 {
@@ -116,7 +108,7 @@ h1 {
 
 h2 {
   color: #0e0068;
-  font-size: 50px;
+  font-size: 50px !important;
   font-style: bold;
   text-align: center;
   text-shadow: 2px 2px #008cfe;

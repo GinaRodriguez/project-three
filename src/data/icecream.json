@@ -3,7 +3,7 @@
     {
       "name": "Chocolate Chip Cookie Dough",
       "year": "1984",
-      "colors": ["white", "brown"],
+      "colors": ["White, ", "Brown"],
       "origin": "United States",
       "pictures": [
         {
@@ -15,7 +15,7 @@
     {
       "name": "Vanilla",
       "year": "1510",
-      "colors": ["white", "white"],
+      "colors": ["White"],
       "origin": "Mexico",
       "pictures": [
         {
@@ -27,7 +27,7 @@
     {
       "name": "Chocolate",
       "year": "1693",
-      "colors": ["brown", "black"],
+      "colors": ["Brown, ", "Black"],
       "origin": "Italy",
       "pictures": [
         {
@@ -39,7 +39,7 @@
     {
       "name": "Strawberry",
       "year": "1770",
-      "colors": ["pink", "white"],
+      "colors": ["Pink," , "White"],
       "origin": "England",
       "pictures": [
         {
@@ -51,7 +51,7 @@
     {
       "name": "Mint Chocolate Chip",
       "year": "1973",
-      "colors": ["green", "brown"],
+      "colors": ["Green, ", "Brown"],
       "origin": "United States",
       "pictures": [
         {
@@ -63,7 +63,7 @@
     {
       "name": "Butter Pecan",
       "year": "1900",
-      "colors": ["golden", "brown"],
+      "colors": ["Golden Brown"],
       "origin": "United States",
       "pictures": [
         {
@@ -75,7 +75,7 @@
     {
       "name": "Peach",
       "year": "1860",
-      "colors": ["peach", "orange"],
+      "colors": ["Peach, ", "Orange"],
       "origin": "United States",
       "pictures": [
         {
@@ -87,7 +87,7 @@
     {
       "name": "Eggnog Ice Cream",
       "year": "1981",
-      "colors": ["cream", "yellow", "light brown"],
+      "colors": ["Cream, ", "Yellow, ", "Light Brown"],
       "origin": "United States",
       "pictures": [
         {
@@ -99,7 +99,7 @@
     {
       "name": "Pistachio",
       "year": "1790",
-      "colors": ["green", "light brown"],
+      "colors": ["Green, ", "Light Brown"],
       "origin": "Middle East",
       "pictures": [
         {
@@ -111,7 +111,7 @@
     {
       "name": "Banana",
       "year": "1830",
-      "colors": ["yellow", "white"],
+      "colors": ["Yellow, ", "White"],
       "origin": "United States",
       "pictures": [
         {
@@ -123,7 +123,7 @@
     {
       "name": "Lemon Sorbet",
       "year": "1875",
-      "colors": ["yellow", "white"],
+      "colors": ["Yellow, ", "White"],
       "origin": "Italy",
       "pictures": [
         {
@@ -135,7 +135,7 @@
     {
       "name": "Blackberry",
       "year": "1884",
-      "colors": ["purple", "black"],
+      "colors": ["Purple, ", "Black"],
       "origin": "United States",
       "pictures": [
         {
@@ -147,7 +147,7 @@
     {
       "name": "Rocky Road",
       "year": "1929",
-      "colors": ["brown", "white"],
+      "colors": ["Brown, ", "White"],
       "origin": "United States",
       "pictures": [
         {
@@ -159,7 +159,7 @@
     {
       "name": "Cookies and Cream",
       "year": "1979",
-      "colors": ["white", "black"],
+      "colors": ["White, ", "Black"],
       "origin": "United States",
       "pictures": [
         {
@@ -171,7 +171,7 @@
     {
       "name": "Butter Pecan",
       "year": "1950s",
-      "colors": ["beige", "brown"],
+      "colors": ["Beige, ", "Brown"],
       "origin": "United States",
       "pictures": [
         {
@@ -183,7 +183,7 @@
     {
       "name": "Snickerdoodle Ice Cream",
       "year": "2005",
-      "colors": ["white", "light brown", "cinnamon"],
+      "colors": ["White, ", "Light Brown, ", "Cinnamon"],
       "origin": "United States",
       "pictures": [
         {
@@ -195,7 +195,7 @@
     {
       "name": "Ube",
       "year": "1970s",
-      "colors": ["purple"],
+      "colors": ["Purple"],
       "origin": "Philippines",
       "pictures": [
         {
@@ -207,7 +207,7 @@
     {
       "name": "Apple Pie Ice Cream",
       "year": "1996",
-      "colors": ["white", "golden", "brown"],
+      "colors": ["White, ", "Golden, ", "Brown"],
       "origin": "United States",
       "pictures": [
         {
@@ -219,7 +219,7 @@
     {
       "name": "Cotton Candy",
       "year": "Unknown",
-      "colors": ["pink", "blue"],
+      "colors": ["Pink, ", "Blue"],
       "origin": "United States",
       "pictures": [
         {
@@ -231,7 +231,7 @@
     {
       "name": "Peach Raspberry",
       "year": "Unknown",
-      "colors": ["orange", "red"],
+      "colors": ["Orange, ", "Red"],
       "origin": "United States",
       "pictures": [
         {
@@ -243,7 +243,7 @@
     {
       "name": "Lemon Sorbet",
       "year": "Unknown",
-      "colors": ["yellow"],
+      "colors": ["Yellow"],
       "origin": "Italy",
       "pictures": [
         {
@@ -255,7 +255,7 @@
     {
       "name": "Bubblegum",
       "year": "Unknown",
-      "colors": ["pink", "blue", "white"],
+      "colors": ["Pink, ", "Blue, ", "White, "],
       "origin": "United States",
       "pictures": [
         {
@@ -267,7 +267,7 @@
     {
       "name": "Dulce de Leche",
       "year": "Unknown",
-      "colors": ["light brown", "caramel"],
+      "colors": ["Light Brown, ", "Caramel"],
       "origin": "Argentina",
       "pictures": [
         {
@@ -279,7 +279,7 @@
     {
       "name": "Maple Walnut",
       "year": "Unknown",
-      "colors": ["light brown"],
+      "colors": ["Light Brown"],
       "origin": "Canada",
       "pictures": [
         {
@@ -291,7 +291,7 @@
     {
       "name": "Gingerbread",
       "year": "Unknown",
-      "colors": ["brown"],
+      "colors": ["Brown"],
       "origin": "United States",
       "pictures": [
         {
